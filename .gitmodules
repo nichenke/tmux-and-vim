@@ -40,3 +40,6 @@
 [submodule "vim-gnupg"]
 	path = vim-gnupg
 	url = https://github.com/jamessan/vim-gnupg
+[submodule "vim-cscope"]
+	path = cscope.vim
+	url = https://github.com/brookhong/cscope.vim
