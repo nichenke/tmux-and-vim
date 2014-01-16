@@ -9,7 +9,7 @@ set autoread
 "set autochdir "Caused problems with ctrlp (used homedir)
 set directory-=.
 set nowritebackup
-set softtabstop=2
+set softtabstop=4
 set tabstop=8 " Actual tabstops are 8 chars, if they exist I want to fix them
 set whichwrap+=<,>,h,l,[,] " Wrap arrow keys between lines
 autocmd! bufwritepost .vimrc source ~/.vimrc
